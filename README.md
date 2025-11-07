@@ -7,7 +7,7 @@
 - 🌐 Code 100 % open-source
 
 ## 🛠️ Technologies utilisées
-
+ok
 - [Solidity](https://soliditylang.org/) (contrat intelligent)  
 - [Ethers.js](https://docs.ethers.io/) (connexion wallet/contrat)  
 - HTML / CSS / JavaScript (interface)  
