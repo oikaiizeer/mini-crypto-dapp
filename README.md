@@ -1,6 +1,12 @@
 
 ## 🧾 Fonctionnalités
-
+📁 dca-investor-bot/
+ ├── bot.py
+ ├── config.yaml
+ ├── trade_api.py
+ ├── scheduler.py
+ ├── requirements.txt
+ └── README.md
 - ✍️ Définir un message personnalisé dans le contrat (`setGreeting`)  
 - 📖 Lire le message stocké (`getGreeting`)  
 - 🔌 Connexion MetaMask via Ethers.js  
